@@ -30,7 +30,23 @@ This plot provides insights into the salary distribution across different job ty
 
 ## Model building
 
-Coming soon...
+The 'EA_model.ipynb' file serves as a comprehensive guide for training an employee attrition prediction model using linear regression and random forest algorithms. The notebook aims to provide a starting point for further research, model refinement, and the development of retention strategies in organizations.
+
+Summary:
+
+The model predicts higher salaries than the actual values in an employee attrition problem. Assuming the correctness of the model, the following insights can be gained:
+
+1. Competitive Salary: The predicted higher salaries suggest employees leave for better-paying opportunities elsewhere, indicating the need for a more competitive salary structure.
+
+2. Salary Expectations: The model's overestimation emphasizes the importance of salary as a key factor in attrition, highlighting the need to align compensation with employee expectations.
+
+3. Compensation Discrepancy: The overestimation indicates potential undervaluation or underpayment, indicating a need for fair and transparent compensation practices.
+
+4. Attrition Risk Factors: While salary is a significant factor, other aspects like career growth, work-life balance, and job satisfaction should also be considered in addressing attrition.
+
+5. Retention Strategies: Understanding the salary-attrition relationship helps shape effective retention strategies that encompass salary adjustments and broader initiatives, such as professional development and positive work environments.
+
+Note: These insights assume the model's correctness, and further validation and analysis are recommended.
 
 ## Acknowledgments
 Thanks to cloudyml platform for the dataset and the project description.
